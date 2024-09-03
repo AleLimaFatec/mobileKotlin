@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="hint_email">Digite seu e-mail</string>
+    <string name="hint_senha">Digite sua senha</string>
+    <string name="txt_tela_cadastro">Não Possui Conta?</string>
+    <string name="txt_button_entrar">Entrar</string>
+</resources>
